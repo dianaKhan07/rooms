@@ -103,7 +103,10 @@
     justify-content: space-around;
     width: 70%;
 }
-
+.brandsImg img{
+    width: 90px;
+    height: 60px;
+}
 .point {
     display: flex;
     gap: 10px;
